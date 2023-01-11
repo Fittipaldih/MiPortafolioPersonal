@@ -77,6 +77,10 @@ a, button, .iconos-contenedor{
     color: rgb(184, 184, 184);
 }
 
+.dark  #titulo-responsive{
+    color: white;
+}
+
 .dark .experiencia .columna:hover{
     background-color: #232342;
 }
@@ -748,8 +752,8 @@ footer{
     #titulo-responsive{
         display: block;
         color: black;
-        font-weight: bold;
         font-size: 40px;
+        font-family: 'Rowdies', cursive;
     }
 
     .hero-imagen-perfil, .btn-wsp{
