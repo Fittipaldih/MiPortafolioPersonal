@@ -108,11 +108,6 @@ section{
     justify-content: center;
 }
 
-h1{
-    font-size: 2.5rem;
-    font-family: 'Rowdies', cursive;
-}
-
 .seccion-oscura{
     background-color: #1b1b32;
     color: white;
@@ -293,15 +288,22 @@ h1{
     text-align: center;
 }
 
+.titulo-tipeado{
+    font-style: normal;
+    font-size: 2.7vw;
+    font-family: 'Rowdies', cursive;
+}
+
 .hero-principal{
     padding: 2rem;
 }
 
 .hero-principal h2{
-    font-size: 1.5rem;
+    font-size: 1.5vw;
     color: #615151;
     transition: .2s all ease-in;
 }
+
 
 /* EFECTO MOVIMIENTO IMAGEN DE PERFIL - ANIMATION */
 .hero-imagen-perfil{
@@ -317,10 +319,6 @@ h1{
 
 .hero-imagen-perfil:hover{
     cursor: url(../images/developer.png), auto;
-}
-
-.titulo-tipeado{
-    font-style: normal;
 }
 
 
@@ -622,7 +620,7 @@ footer{
 }
 
 .footer-texto{
-    font-size: 1.5rem;
+    font-size: 2.5vw;
     font-family: 'Quicksand', sans-serif;
     margin: 50px;
 }
@@ -745,25 +743,21 @@ footer{
         display: none;
     }
 
-    h1{
-        display: none;
-    }
-
-    #titulo-responsive{
-        display: block;
-        color: black;
-        font-size: 40px;
-        font-family: 'Rowdies', cursive;
-    }
-
     .hero-imagen-perfil, .btn-wsp{
         animation: none;
     }
+
 }
 
 @media screen and (max-width: 1200px) {
     #unlam1{
         display: none;
+    }
+    .titulo-tipeado{
+        font-size: 5vw;
+    }
+    .hero-principal h2{
+        font-size: 3vw;
     }
 }
 
