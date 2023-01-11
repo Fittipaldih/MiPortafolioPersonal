@@ -768,21 +768,3 @@ footer{
         display: none;
     }
 }
-
-
-/*
-@media screen and (max-width:500px){
-    .footer-texto{
-        display: none;
-    }
-    .derechos-de-autor #footer-p1{
-        display: none;
-    }
-}
-
-@media screen and (min-width:500px){
-    .derechos-de-autor #footer-p2{
-        display: none;
-    }
-}
-*/
