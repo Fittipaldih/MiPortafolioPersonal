@@ -708,7 +708,6 @@ footer{
 
 /* Responsive */
 
-
 @media screen and (max-width: 400px) {
     .overlay p{
         font-size: 18px;
@@ -722,13 +721,6 @@ footer{
 @media screen and (min-width: 700px) {
     .hero-inferior img {
         max-width: 700px;
-    }
-}
-
-
-@media screen and (min-width: 767px) {
-    #titulo-responsive{
-        display:none;
     }
 }
 
@@ -746,13 +738,25 @@ footer{
     .hero-imagen-perfil, .btn-wsp{
         animation: none;
     }
+    .footer-texto{
+        font-size:5vw;
+    }
 
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1020px) {
     #unlam1{
         display: none;
     }
+
+@media screen and (min-width: 1020px) {
+    #unlam2{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+
     .titulo-tipeado{
         font-size: 5vw;
     }
@@ -761,8 +765,3 @@ footer{
     }
 }
 
-@media screen and (min-width: 1200px) {
-    #unlam2{
-        display: none;
-    }
-}
