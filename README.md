@@ -18,3 +18,4 @@ A su vez, la página web incluye modo nocturno o "dark mode" en inglés, que cam
 El texto de la página web está escrito en español, al igual que las clases y atributos personalizados. Las clases relacionadas con Bootstrap se incluyeron en inglés.
 ![hero](https://user-images.githubusercontent.com/111435538/211704907-423ec232-a558-4d0a-8361-0073df0886bb.jpg)
 ![herodarkmode](https://user-images.githubusercontent.com/111435538/211704920-ea01dfc0-e02f-4f55-afd8-6df2265e53b2.jpg)
+![respnsive sobre mi](https://user-images.githubusercontent.com/111435538/211725375-ec6aacaf-d8ae-4d34-9b9a-5ebe6a132100.jpg)
