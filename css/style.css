@@ -718,6 +718,10 @@ footer{
     .overlay i{
         font-size: 40px;
     }
+    
+    .switch{
+        display: none;
+    }
 }
 
 @media screen and (min-width: 700px) {
@@ -730,9 +734,7 @@ footer{
     .navbar-brand {
         display: none;
     }
-    .switch{
-        display: none;
-    }
+
     .burbujas{
         display: none;
     }
@@ -744,11 +746,44 @@ footer{
         font-size:5vw;
     }
 
+    #experiencia {
+        background-color: #1b1b32;;
+    }
+
+    #experiencia .columna{
+        background-color: #eee;
+        margin-top: 10px;
+    }
+
+    .dark #experiencia .columna{
+        background-color: #151515;;
+    }
+
+    .btn-ver-mas{
+        border: 1px solid white;
+    }
+
+    .switch{
+        display: none;
+    }
+
 }
 
 @media screen and (max-width: 1020px) {
     #unlam1{
         display: none;
+    }
+    .proyecto{
+        margin: 10px;
+        border: 2px solid black;
+    }
+    .proyecto img{
+        opacity: 0.7;
+        cursor: url(../images/cursormano.png), auto;
+    }
+    
+    .proyecto .overlay{
+        opacity: 1;
     }
 }
 
