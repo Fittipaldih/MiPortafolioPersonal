@@ -755,6 +755,14 @@ footer{
         margin-top: 10px;
     }
 
+    #experiencia .columna:hover{
+        color: #000;
+    }
+
+    .dark #experiencia .columna:hover{
+        color: white;
+    }
+    
     .dark #experiencia .columna{
         background-color: #151515;;
     }
@@ -765,6 +773,10 @@ footer{
 
     .switch{
         display: none;
+    }
+
+    #navbarButton{
+        color: white;
     }
 
 }
