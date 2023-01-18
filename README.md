@@ -19,6 +19,27 @@ A su vez, la página web incluye modo nocturno o "dark mode", que cambia de tona
 
 El texto de la página web está escrito en español, al igual que las clases y atributos personalizados. Las clases relacionadas con Bootstrap se incluyeron en inglés.
 
+# MyPersonalPortfolio
+
+View it at:
+https://fittipaldih.github.io/MyPersonalPortfolio/
+
+First personal portfolio.
+
+Web page adaptable to devices of different sizes "responsive".
+
+It includes a brief description of 'About me', 'Projects', and 'Contact'.
+
+This website was created with the technologies of:
+
+HTML - CSS - JavaScript - Bootstrap 5
+
+In addition, Google Fonts were included to customize the font and Bootstrap-icons to incorporate icons such as arrows and logos of social networks, at the same time as libraries such as AOS to generate effects when scrolling, and typed to generate a writing effect in the main title.
+
+In turn, the web page includes night mode or "dark mode", which changes the tone of the site, through a switch-style button. And floating bubble effect, as well as a custom mouse cursor.
+
+The text of the web page is written in Spanish, as are the custom classes and attributes. Bootstrap related classes were included in English.
+
 Capturas de pantalla del Hero en light-mode y dark-mode:
 
 ![hero](https://user-images.githubusercontent.com/111435538/211704907-423ec232-a558-4d0a-8361-0073df0886bb.jpg)
