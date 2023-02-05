@@ -1,7 +1,7 @@
 # MiPortafolioPersonal
 
 Visualizalo en:
-https://fittipaldih.github.io/MiPortafolioPersonal/
+https://fittipaldih.github.io/PortafolioFittipaldi/
 
 Primer portafolio personal.
 
@@ -22,7 +22,7 @@ El texto de la página web está escrito en español, al igual que las clases y 
 # MyPersonalPortfolio
 
 View it at:
-https://fittipaldih.github.io/MyPersonalPortfolio/
+https://fittipaldih.github.io/PortafolioFittipaldi/
 
 First personal portfolio.
 
