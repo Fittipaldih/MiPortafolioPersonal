@@ -1,7 +1,7 @@
 # MiPortafolioPersonal
 
 Visualizalo en:
-https://fittipaldih.github.io/MiPortafolioPersonal/
+https://fittipaldih.github.io/PortafolioFittipaldi/
 
 Primer portafolio personal.
 
@@ -18,6 +18,27 @@ Además, se incluyeron Google Fonts para personalizar la fuente y Bootstrap-icon
 A su vez, la página web incluye modo nocturno o "dark mode", que cambia de tonalidad el sitio, a través de un botón estilo switch. Y efecto de burbujas flotantes, como también un cursor de mouse personalizado.
 
 El texto de la página web está escrito en español, al igual que las clases y atributos personalizados. Las clases relacionadas con Bootstrap se incluyeron en inglés.
+
+# MyPersonalPortfolio
+
+View it at:
+https://fittipaldih.github.io/PortafolioFittipaldi/
+
+First personal portfolio.
+
+Web page adaptable to devices of different sizes "responsive".
+
+It includes a brief description of 'About me', 'Projects', and 'Contact'.
+
+This website was created with the technologies of:
+
+HTML - CSS - JavaScript - Bootstrap 5
+
+In addition, Google Fonts were included to customize the font and Bootstrap-icons to incorporate icons such as arrows and logos of social networks, at the same time as libraries such as AOS to generate effects when scrolling, and typed to generate a writing effect in the main title.
+
+In turn, the web page includes night mode or "dark mode", which changes the tone of the site, through a switch-style button. And floating bubble effect, as well as a custom mouse cursor.
+
+The text of the web page is written in Spanish, as are the custom classes and attributes. Bootstrap related classes were included in English.
 
 Capturas de pantalla del Hero en light-mode y dark-mode:
 
