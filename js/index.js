@@ -35,7 +35,7 @@ const typed = new Typed('.typed', {
 /* Evento Click en Curriculum (Descargar y abrir el CV-PDF) */
 const downloadPdfButton = document.querySelector('#download-pdf');
 downloadPdfButton.addEventListener('click', () => {
-  const pdfUrl = '../pdf/FittipaldiHernanCV.pdf';
+  const pdfUrl = 'https://fittipaldih.github.io/PortafolioFittipaldi/pdf/FittipaldiHernanCV.pdf';
   const downloadLink = document.createElement('a');
   window.open(pdfUrl, '_blank');
   downloadLink.setAttribute('href', pdfUrl);
