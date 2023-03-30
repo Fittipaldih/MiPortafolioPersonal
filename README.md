@@ -1,4 +1,4 @@
-# MiPortafolioPersonal
+# Portafolio Personal
 
 Visualizalo en:
 https://fittipaldih.github.io/PortafolioFittipaldi/
@@ -19,7 +19,7 @@ A su vez, la página web incluye modo nocturno o "dark mode", que cambia de tona
 
 El texto de la página web está escrito en español, al igual que las clases y atributos personalizados. Las clases relacionadas con Bootstrap se incluyeron en inglés.
 
-# MyPersonalPortfolio
+# Personal Portfolio
 
 View it at:
 https://fittipaldih.github.io/PortafolioFittipaldi/
